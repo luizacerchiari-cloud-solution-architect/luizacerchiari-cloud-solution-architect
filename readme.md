@@ -13,8 +13,8 @@
 
 # Formação:
 
-- **TOTVS Protheus** (formação presencial há muito tempo)
-- **ADVPL** (idem anterior)
+- **TOTVS Protheus** 
+- **Advanced Protheus Language** 
 - **Windows Server** (Impacta e mais duas instutuições)
 - **Java** (Impacta)
 - **MongoDB** (4Linux)
@@ -23,7 +23,7 @@
 - **PHP** (4Linux)
 - **Frontend** (Compuclass)
 - **VBA** (Compuclass)
-- **AWS Developer** (4 Solution)
+- **AWS Developer** (Ka Solutions)
 - **Observabilidade de APIS – Grafana e Prometheus** (4Linux)
 - **Redes** (Impacta)
 - **Redes e Fibra** (Domínio Tecnologia)
