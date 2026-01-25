@@ -32,7 +32,6 @@
 - **Redes** (Impacta)
 - **Redes e Fibra** (Domínio Tecnologia)
 - **Notebook** (SENAI)
-- **Frontend** (Compuclass)
 - Etc.
 
 ---
