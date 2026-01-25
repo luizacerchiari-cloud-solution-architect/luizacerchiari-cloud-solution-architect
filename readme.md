@@ -7,28 +7,31 @@
 - Arquitetura de soluções **orientadas a eventos** com **NATS, CloudEvents e Event Sourcing**.
 - Experiência sólida em **observabilidade**, **Metrics as Code**, **Splunk** e **Dynatrace**.
 - Empresas que ja trabalhei: **Itaú, Bradesco, Santander, Porto Seguro, SulAmérica**, entre outras.
-- Atuação profissional em **containers, cloud e infraestrutura** há mais de **6 anos**.
+- Atuação profissional em **containers, cloud e infraestrutura**.
 - Experiência acadêmica em instituições como **Senac, Eniac, Impacta e FIAP**, entre outras.
 - **Hobbies:** · Corrida · Esportes náuticos · Jogar Tênis 🎾 · 📚 Leitura · 📖 Estudos
 
-# Formação:
+
+# Estudos relacionados a tecnologias
 
 - **TOTVS Protheus** 
 - **Advanced Protheus Language** 
 - **Windows Server** (Impacta e mais duas instutuições)
 - **Java** (Impacta)
-- **MongoDB** (4Linux)
+- **MongoDB, MySQL, Oracle e SQLServer** (4Linux)
 - **Docker e Containers** (4Linux)
 - **SysAdmin e python** (4Linux)
 - **PHP** (4Linux)
+- **Web com MySQL, Front e Backend em PHP** (4Linux)
 - **Frontend** (Compuclass)
-- **VBA** (Compuclass)
+- **Excel Avançado com VBA** (Compuclass)
+- **VBA** (Trainning)
+- **Dashboard com excel, macros e VBA** (Compuclass)
 - **AWS Developer** (Ka Solutions)
 - **Observabilidade de APIS – Grafana e Prometheus** (4Linux)
 - **Redes** (Impacta)
 - **Redes e Fibra** (Domínio Tecnologia)
 - **Notebook** (SENAI)
-- **Excel** (Training, Compuclass)
 - **Frontend** (Compuclass)
 - Etc.
 
@@ -89,11 +92,11 @@ Detalhamento da formação técnica presencial e completa realizada através da 
 - Curso profissionalizante em Web Design e Web Developer.
 - Formação na própria AWS, na AWS Educate.
 - Tenho graduação em tecnologia, algumas pós graduações que solicitei a transferência por alinhamento profissional de disciplinas, e outras concluídas.
-- Tenho mais de 100 cursos realizados em plataformas Udemy, Alura nas máterias: Docker, Kafka, Java Spring, Python, Angular, JQuery, ReactJS, Quarkus, AWS, Azure, AWS para Serverless, e etc.
+- Cursos realizados em plataformas Udemy, Alura nas máterias: Docker, Kafka, Java Spring, Python, Angular, JQuery, ReactJS, Quarkus, AWS, Azure, AWS para Serverless, e etc.
 
 ---
 > [!NOTE]
-> **Aviso:** Este README.md pode estar desatualizado. 
+> **Aviso:** Este README.md pode estar desatualizado.
 >
 
 
