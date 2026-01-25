@@ -84,7 +84,7 @@ Detalhamento da formação técnica presencial e completa realizada através da 
 
 ---
 
-## Demais detalhes:
+## Demais informações:
 
 - Curso profissionalizante em Web Design e Web Developer.
 - Formação na própria AWS, na AWS Educate.
